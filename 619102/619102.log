@@ -1,0 +1,37 @@
+DEBUG:__main__:1
+DEBUG:__main__:Case #1, wire_number: 0, wire: 0
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:1
+DEBUG:__main__:Case #1, wire_number: 0, wire: 0
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:1
+DEBUG:__main__:Case #1, wire_number: 0, wire: 0
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:1
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:1
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:number of cases: 2
+DEBUG:__main__:1
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:number of cases: 2
+DEBUG:__main__:1
+DEBUG:__main__:number of wires: 3
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:number of cases: 2
+DEBUG:__main__:1
+DEBUG:__main__:number of wires: 3
+DEBUG:__main__:Case #1, wire_number: 1, wire: 1
+DEBUG:__main__:Case #1, wire_number: 2, wire: 2
+DEBUG:__main__:Case #1, wire_number: 3, wire: 3
+DEBUG:__main__:2
+DEBUG:__main__:number of wires: 2
+DEBUG:__main__:Case #2, wire_number: 1, wire: 1
+DEBUG:__main__:Case #2, wire_number: 2, wire: 2

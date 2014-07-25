@@ -1,0 +1,30 @@
+DEBUG:__main__:words: abc,bca,dac,dbc,cba
+DEBUG:__main__:(ab)(bc)(ca)
+DEBUG:__main__:abc
+DEBUG:__main__:bca
+DEBUG:__main__:abc
+DEBUG:__main__:abc
+DEBUG:__main__:(abc)(abc)(abc)
+DEBUG:__main__:abc
+DEBUG:__main__:bca
+DEBUG:__main__:cba
+DEBUG:__main__:(zyx)bc
+DEBUG:__main__:words: abc,bca,dac,dbc,cba
+DEBUG:__main__:(ab)(bc)(ca)
+DEBUG:__main__:abc
+DEBUG:__main__:bca
+DEBUG:__main__:abc
+DEBUG:__main__:abc
+DEBUG:__main__:(abc)(abc)(abc)
+DEBUG:__main__:abc
+DEBUG:__main__:bca
+DEBUG:__main__:cba
+DEBUG:__main__:(zyx)bc
+DEBUG:__main__:words: nwlrbbmqbh,cdarzowkky,hiddqscdxr,jmowfrxsjy,bldbefsarc,bynecdyggx,xpklorelln,mpapqfwkho,pkmcoqhnwn,kuewhsqmgb,buqcljjivs,wmdkqtbxix,mvtrrbljpt,nsnfwzqfjm,afadrrwsof,sbcnuvqhff,bsaqxwpqca,cehchzvfrk,mlnozjkpqp,xrjxkitzyx,acbhhkicqc,oendtomfgd,wdwfcgpxiq,vkuytdlcgd,ewhtacioho
+DEBUG:__main__:rdtqkvwcsg
+DEBUG:__main__:nwlr(nqxb)bm(dgqw)bh
+DEBUG:__main__:nwlrbbmqbh
+DEBUG:__main__:(gu)(umo)(cdq)(bru)(ote)(xyk)(oah)(hwc)(vdm)(xr)
+DEBUG:__main__:(aknw)(glmw)(jlue)(kruw)(bci)(xbu)(mue)(qemn)(tyab)(hmrd)
+DEBUG:__main__:nwlrbbmqbh
+DEBUG:__main__:(ijklmopqrstuvyzabcefgh)(qrtuvwxyzabcdefghijklmnop)(ijmnopqsuvwxyabcdefgh)(fghijklmopqrstuvxyzbcde)(pqrstuvwxyzbcdefghijkno)(ghijlpqsuvwxyzabcdef)(yzbcdefgijlmnopqrstuvwx)(nopqrstuvwxyzabcdefghijklm)(klmnopqrsuvwxyzabcdefghj)(rstuvwxbcdefgijklmnopq)
